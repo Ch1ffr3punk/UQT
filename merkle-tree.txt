@@ -1,0 +1,14 @@
+--- FILE HASHES (RIPEMD-160) ---
+LICENSE: 304c26c26e8af4d60f1e0818baa73f8ac9b511fd
+LabGrotesque-Bold.ttf: b99c6670abf08cbcb148216c6ba0ad291c1fda1a
+README.md: 32f9a7caaf7ebde45470a3a3a6dc0569ab5b2ba6
+UQT.go: f1842618e6fbc0fa5897ceabdb280730434de28d
+UQT.png: 57a64f1d61827ee1feea0f10ae19d387cdf3e323
+bundle_font.go: 34439dd7ea34d8ae8f157cec11ab630e9dc70a68
+go.mod: 6e2b4eddce3020dd1a24768714cadd55d7090a00
+go.sum: 3cbfa88615272e29f23d7159f653708be1d68f18
+img\1.png: 28ce4d666964808e1679a41f6316d19313f71c19
+img\2.png: 4f5548ec750fe7f0da7d8ee79c9bd23a83206ac8
+
+--- ROOT HASH (RIPEMD-160) ---
+5cda9b84caf2224c0108591acd42a44e43d71c46
